@@ -1,0 +1,61 @@
+Python Digital Clock
+
+About the Project
+
+The Digital Clock is a beginner-friendly Python project that displays the current time and date in a graphical window.
+
+Features
+
+- Displays the current time
+- Updates every second
+- Displays the current date
+- Simple graphical user interface
+- Easy-to-use clock window
+
+Technologies Used
+
+- Python 3
+- Tkinter
+- Datetime module
+
+How to Run
+
+1. Install Python 3 on your computer.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the command:
+
+python main.py
+
+On Windows, you can also try "py main.py". On macOS or Linux, try "python3 main.py".
+
+Project Structure
+
+digital-clock/
+├── main.py
+└── README.md
+
+Python Concepts Learned
+
+- Importing modules
+- Functions
+- Variables
+- Date and time formatting
+- Creating a graphical window
+- Labels and fonts
+- Updating a window with "after()"
+
+Future Improvements
+
+- Add a 24-hour clock option
+- Add a dark and light theme
+- Add an alarm feature
+- Add a stopwatch
+
+Author
+
+Add your name here.
+
+Purpose
+
+This project was created for beginner Python practice and educational purposes.
